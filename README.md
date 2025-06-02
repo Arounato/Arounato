@@ -8,6 +8,8 @@ Je vous laisse donc un bref résumé de ma personne et mes projets actuels :
 - 📁 Parallèlement, j'apprends à manipuler **GitHub** afin de construire un portfolio présentant mes créations passées (depuis 2022) et présentes.
 - ⚠📁 Je suis actuellement en train d'importer mes anciens projets. Je vous prie de bien vouloir m'excuser pour les éventuels désagréments temporaires. Néanmoins, vous pouvez déjà consulter dans mes "Repositories" les différents dossiers des projets que j'intègre progressivement. Par respect envers mes camarades et leur souhait d'anonymat, l'intégration de certains projets sur GitHub prendra plus de temps.
 
+Merci d'avoir lu 👀
+
 ## English :
 
 I'll leave you with a brief description of who I am and my current projects:
