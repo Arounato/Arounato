@@ -1,6 +1,6 @@
 ## Hello World 🌍
 
-# Français
+🇨🇵 Français 🇨🇵
 Je vous laisse donc un bref résumé de ma personne et mes projets actuels :
 - 💼 Je travaille actuellement sur la création d'un **site web de librairie** dans le cadre d'un projet personnel. Ce défi me permet d'appliquer et de consolider mes compétences en développement web.
 - 💻 J'apprends et peaufine mes connaissances en **HTML/CSS**, **PHP**, **bases de données (via phpMyAdmin)** et les **concepts d'hébergement web**.
