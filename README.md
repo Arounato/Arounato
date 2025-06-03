@@ -15,7 +15,7 @@ Merci d'avoir lu 👀
 #### Route forestière, Rte d'Hurtault, 77300 Fontainebleau, France
 - Site web de type marketplace : https://github.com/Arounato/SAE_web_S1
 - Jeux de paires : https://github.com/Arounato/SAE11_2022_01
-- 🚧 Créations en cours d'importations 🚧
+- Configuration d'un poste informatique : https://github.com/Arounato/SAE_S1_03
 ### ESGI (janv. 2024-déc. 2024)
 #### 242 Rue du Faubourg Saint-Antoine, 75012 Paris, France
 - 🚧 Créations en cours d'importations 🚧
@@ -37,7 +37,7 @@ Thanks you for reading 👀
 #### Route forestière, Rte d'Hurtault, 77300 Fontainebleau, France
 - Marketplace website : https://github.com/Arounato/SAE_web_S1
 - Pairs games : https://github.com/Arounato/SAE11_2022_01
-- 🚧 Creations being imported 🚧
+- Computer configuration : https://github.com/Arounato/
 ### ESGI (janv. 2024-déc. 2024)
 #### 242 Rue du Faubourg Saint-Antoine, 75012 Paris, France
 - 🚧 Creations being imported 🚧
