@@ -17,10 +17,18 @@ Merci d'avoir lu 👀
 - Jeux de paires : https://github.com/Arounato/SAE11_2022_01
 - Configuration d'un poste informatique : https://github.com/Arounato/SAE_S1_03
 ##### Semestre 2 :
-- 🚧 Creations being imported 🚧
+- Site web de type doodle (🚧Création en cours d'importation🚧)
+- Jeu du labyrinthe de Thésée (🚧Création en cours d'importation🚧)
 ### ESGI (janv. 2024-déc. 2024)
+#### Annuel :
 #### 242 Rue du Faubourg Saint-Antoine, 75012 Paris, France
-- 🚧 Créations en cours d'importations 🚧
+- Conception et architecture d'un système d'information (🚧Autorisation de publication en cours🚧)
+- Modélisation et exploitation de base de données (🚧Autorisation de publication en cours🚧)
+- Mise en place et administration d'un système de gestion de parc informatique GLPI sur une machine virtuelle (🚧Autorisation de publication en cours🚧)
+- Conception et déploiement d'une architecture réseau multi-sites (🚧Autorisation de publication en cours🚧)
+- Déploiement et administration d'une infrastructure Windows Server (🚧Autorisation de publication en cours🚧)
+- Site web dynamique de réservation de séjours en kayak (🚧Autorisation de publication en cours🚧)
+- Projet Annuel : Conception et déploiement d'un Site web dynamique "from scratch" (🚧Autorisation de publication en cours🚧)
 ### Projets personnel
 - Site web de librairie (🚧Création en cours d'importation🚧)
 
@@ -41,9 +49,16 @@ Thanks you for reading 👀
 - Pairs games : https://github.com/Arounato/SAE11_2022_01
 - Computer configuration : https://github.com/Arounato/
 ##### Semester 2
-- 🚧 Creations being imported 🚧
+- Doodle website (🚧Creation in progress🚧)
+- Theseus' labyrinth game (🚧Creation in progress🚧)
 ### ESGI (janv. 2024-déc. 2024)
 #### 242 Rue du Faubourg Saint-Antoine, 75012 Paris, France
-- 🚧 Creations being imported 🚧
+- Information system design and architecture (🚧Publication authorization in progress🚧)
+- Database modeling and operation (🚧Authorization for publication in progress🚧)
+- Implementation and administration of a GLPI asset management system on a virtual machine (🚧Publication authorization in progress🚧)
+- Design and deployment of a multi-site network architecture (🚧Publication authorization pending🚧)
+- Deployment and administration of a Windows Server infrastructure (🚧Authorization for publication in progress🚧)
+- Dynamic website for booking kayak trips (🚧Publication authorization in progress🚧)
+- Annual Project: Design and deployment of a dynamic website “from scratch” (🚧Publication authorization pending🚧)
 ### Personal project
 - Bookstore website (🚧Creation being imported🚧)
