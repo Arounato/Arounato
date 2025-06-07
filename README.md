@@ -19,7 +19,7 @@ Merci d'avoir lu 👀
 
 ## 📁 Portfolio 
 ## IUT Sénart-Fontainebleau (2022-2023)
-### Adresse : Route forestière, Rte d'Hurtault, 77300 Fontainebleau, France
+### <ins>Adresse : Route forestière, Rte d'Hurtault, 77300 Fontainebleau, France</ins>
 #### Semestre 1 :
 - Site web de type marketplace : https://github.com/Arounato/SAE_web_S1
 - Jeu de paires : https://github.com/Arounato/SAE11_2022_01
@@ -28,7 +28,7 @@ Merci d'avoir lu 👀
 - Site web de type doodle (🚧Création en cours d'importation🚧)
 - Jeu du labyrinthe de Thésée (🚧Création en cours d'importation🚧)
 ## ESGI (janv. 2024-déc. 2024)
-### Adresse : 242 Rue du Faubourg Saint-Antoine, 75012 Paris, France
+### <ins>Adresse : 242 Rue du Faubourg Saint-Antoine, 75012 Paris, France</ins>
 ### Annuel :
 - Conception et architecture d'un système d'information (🚧Autorisation de publication en cours🚧)
 - Modélisation et exploitation de base de données (🚧Autorisation de publication en cours🚧)
@@ -59,7 +59,7 @@ Thanks you for reading 👀
 
 ## 📁 Portfolio 
 ## IUT Sénart-Fontainebleau (2022-2023)
-### Adresse : Route forestière, Rte d'Hurtault, 77300 Fontainebleau, France
+### <ins>Address : Route forestière, Rte d'Hurtault, 77300 Fontainebleau, France</ins>
 #### Semester 1
 - Marketplace website : https://github.com/Arounato/SAE_web_S1
 - Pairs games : https://github.com/Arounato/SAE11_2022_01
@@ -68,7 +68,7 @@ Thanks you for reading 👀
 - Doodle website (🚧Creation in progress🚧)
 - Theseus' labyrinth game (🚧Creation in progress🚧)
 ## ESGI (janv. 2024-déc. 2024)
-### 242 Rue du Faubourg Saint-Antoine, 75012 Paris, France
+### <ins>Address : 242 Rue du Faubourg Saint-Antoine, 75012 Paris, France</ins>
 ### Annual :
 - Information system design and architecture (🚧Publication authorization in progress🚧)
 - Database modeling and operation (🚧Authorization for publication in progress🚧)
