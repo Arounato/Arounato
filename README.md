@@ -48,7 +48,7 @@ Merci d'avoir lu 👀
 - Conception et architecture d'un système d'information : https://github.com/Arounato/Mini-Projet-Architecture-SI
 - Modélisation et exploitation de base de données : https://github.com/Arounato/Projet-SQL-Karkane
 - Mise en place et administration d'un système de gestion de parc informatique GLPI sur une machine virtuelle : https://github.com/Arounato/Projet-Soutenance-VIRTUALISATION-ET-GDPI
-- Conception et déploiement d'une architecture réseau multi-sites (🚧Création en cours d'importation🚧)
+- Conception et déploiement d'une architecture réseau multi-sites : https://github.com/Arounato/Projet-Galer-IT
 - Déploiement et administration d'une infrastructure Windows Server (🚧Création en cours d'importation🚧)
 - Site web dynamique de réservation de séjours en kayak (🚧Création en cours d'importation🚧)
 - Projet Annuel : Conception et déploiement d'un Site web dynamique "from scratch" (🚧Création en cours d'importation🚧)
@@ -104,7 +104,7 @@ Thanks you for reading 👀
 - Information system design and architecture : https://github.com/Arounato/Mini-Projet-Architecture-SI
 - Database modeling and operation : https://github.com/Arounato/Projet-SQL-Karkane
 - Implementation and administration of a GLPI asset management system on a virtual machine : https://github.com/Arounato/Projet-Soutenance-VIRTUALISATION-ET-GDPI
-- Design and deployment of a multi-site network architecture (🚧Creation in progress🚧)
+- Design and deployment of a multi-site network architecture : https://github.com/Arounato/Projet-Galer-IT
 - Deployment and administration of a Windows Server infrastructure (🚧Creation in progress🚧)
 - Dynamic website for booking kayak trips (🚧Creation in progress🚧)
 - Annual Project: Design and deployment of a dynamic website “from scratch” (🚧Creation in progress🚧)
