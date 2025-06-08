@@ -61,15 +61,15 @@ Merci d'avoir lu 👀
 
 Here's a summary of who I am and what I'm up to.
 
-- 💼 Personal project:
+- 💼 Personal project :
 
   I'm currently working on creating a **bookstore website** as part of a personal project. This challenge allows me to apply and consolidate my web development skills. It will soon be available in my portfolio.
 
-- 💻 Still learning:
+- 💻 Still learning :
   
   I'm learning and refining my knowledge of HTML/CSS, PHP, databases (via phpMyAdmin) and web hosting concepts.
 
-- 📁 Portfolio:
+- 📁 Portfolio :
   
   Some of my past (since 2022) and present creations will soon all be available on my portfolio cited in this README.md file. Out of respect for the privacy of my fellow students, as well as for the confidentiality of school documents, the integration of certain projects will take longer, but you can find some of them by waiting.
 
@@ -85,13 +85,12 @@ Thanks you for reading 👀
 
 ### <ins>Address : Route forestière, Route d'Hurtault, 77300 Fontainebleau, France</ins>
 
-#### Semester 1
-
+#### Semester 1 :
 - Marketplace website : https://github.com/Arounato/SAE_web_S1
 - Pairs games : https://github.com/Arounato/SAE11_2022_01
 - Computer configuration : https://github.com/Arounato/
 
-#### Semester 2
+#### Semester 2 :
 
 - Doodle website (🚧Creation in progress🚧)
 - Theseus' labyrinth game (🚧Creation in progress🚧)
