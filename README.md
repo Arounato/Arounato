@@ -55,7 +55,7 @@ Merci d'avoir lu 👀
 
 ## Projets personnel
 
-- Site web de librairie (🚧Création en cours d'importation🚧)
+- Site web de librairie : https://github.com/Arounato/Manga-no-Mori
 
 ## English :
 
@@ -111,4 +111,4 @@ Thanks you for reading 👀
 
 ## Personal project
 
-- Bookstore website (🚧Creation being imported🚧)
+- Bookstore website : https://github.com/Arounato/Manga-no-Mori
