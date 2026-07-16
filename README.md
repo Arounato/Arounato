@@ -17,8 +17,8 @@
 ### 🏫 La Toile - emlyon business school (mars 2026 - juillet 2026)
 
 Bootcamp Vibe Coding : 
-- Portfolio : [Dépôt GitHub](https://github.com/RobertAndresVallejos/andres.studio) | [Site Web](🚧En cours🚧)
-- Site web culinaire : [Dépôt GitHub](https://github.com/RobertAndresVallejos/crunch-cuisine-neo) | [Site Web](🚧En cours🚧)
+- Portfolio : [Dépôt GitHub](https://github.com/RobertAndresVallejos/andres.studio) | [Site Web](https://andres-studio.ai.studio/)
+- Crunch (site web) : [Dépôt GitHub](https://github.com/RobertAndresVallejos/crunch-cuisine-neo) | [Site Web](https://preview--crunch-cuisine-neo.lovable.app/)
 
 Annuel : 
 - Maquette figma + site web : [Dépôt GitHub](https://github.com/RobertAndresVallejos/HaloMind) | [GitHub Pages](https://robertandresvallejos.github.io/HaloMind/) +
