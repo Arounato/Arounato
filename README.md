@@ -61,8 +61,8 @@ Semestre 2 :
 
 ### Udemy
 
-- Site web : [Dépôt GitHub](https://github.com/RobertAndresVallejos/Travel-Agency)
-- Jeu du serpent : [Dépôt GitHub](https://github.com/RobertAndresVallejos/Jeu-du-serpent)
+- Site web : [Dépôt GitHub](https://github.com/RobertAndresVallejos/Travel-Agency) | [GitHub Pages](https://robertandresvallejos.github.io/Travel-Agency/)
+- Jeu du serpent : [Dépôt GitHub](https://github.com/RobertAndresVallejos/Jeu-du-serpent) | [GitHub Pages](https://robertandresvallejos.github.io/Jeu-du-serpent/)
 - Formulaire de contact : [Dépôt GitHub](https://github.com/RobertAndresVallejos/Formulaire-de-contact)
 - Page web interactive : [Dépôt GitHub](https://github.com/RobertAndresVallejos/Page-web-interactive)
 
