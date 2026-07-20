@@ -66,6 +66,10 @@ Semestre 2 :
 - Formulaire de contact : [Dépôt GitHub](https://github.com/RobertAndresVallejos/Formulaire-de-contact)
 - Page web interactive : [Dépôt GitHub](https://github.com/RobertAndresVallejos/Page-web-interactive)
 
+### W3Schools 
+
+- Exercices pratiques : [Dépôt GitHub](https://github.com/RobertAndresVallejos/W3Schools)
+
 ## :octocat: GitHub
 
 ### Certifications de compétences GitHub 
