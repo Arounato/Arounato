@@ -68,7 +68,7 @@ Semestre 2 :
 
 ### W3Schools 
 
-- Exercices pratiques : [Dépôt GitHub](https://github.com/RobertAndresVallejos/W3Schools)
+- Exercices pratiques : [Dépôt GitHub](https://github.com/RobertAndresVallejos/W3Schools) | [GitHub Pages](🚧À venir🚧)
 
 ## :octocat: GitHub
 
